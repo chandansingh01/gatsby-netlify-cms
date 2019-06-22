@@ -19,6 +19,13 @@ presenters:
       Ben will tell us all about the power of functional programming,
       specifically memoization and how it can help speed up frequently used side
       effect-less functions.
+  - image: /img/jakob-dalbjorn-730178-unsplash.jpg
+    name: Victor Hanks
+    presentationTitle: A Journey To React
+    text: >-
+      We all have a question when stating something new and what will it result
+      if not done correctly, a'las we are just humans with a mind full of
+      doubts. 
 location:
   mapsLatitude: 64.843779
   mapsLink: 'https://goo.gl/maps/LLgicn3zGuy'
