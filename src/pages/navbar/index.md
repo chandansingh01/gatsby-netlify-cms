@@ -1,7 +1,7 @@
 ---
 templateKey: navbar
 menuItems:
-  - label: home
+  - label: homer
     linkType: internal
     linkURL: /
   - label: about
